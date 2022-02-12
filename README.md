@@ -43,11 +43,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ntdung812&show_icons=true&theme=dark&locale=en" alt="ntdung812" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntdung812&show_icons=true&theme=dark&locale=en&layout=compact" alt="ntdung812" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dung812&show_icons=true&theme=dark&locale=en" alt="dung812" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dung812&show_icons=true&theme=dark&locale=en&layout=compact" alt="dung812" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntdung812&theme=dark" alt="ntdung812" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dung812&theme=dark" alt="dung812" /></p>
   </div>

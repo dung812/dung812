@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm <a href="http://www.nguyenthanhdung.ga/" target="_blank"> Nguyen Dung </a></h1>
+<h1 align="center">Hi there 👋, I'm <a href="http://www.nguyenthanhdung.tk" target="_blank"> Nguyen Dung </a></h1>
 
 - 🌱 I’m currently learning **ReactJS, ASP.NET MVC 5**
 
 - 💬 Ask me about **Java, Javascript, SQL Server**
 
-- 📫 Check out my personal portfolio : **<a href="http://www.nguyenthanhdung.ga/" target="_blank">Portfolio</a>**
+- 📫 Check out my personal portfolio : **<a href="http://www.nguyenthanhdung.tk" target="_blank">Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>

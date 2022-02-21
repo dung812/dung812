@@ -51,3 +51,4 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dung812&theme=dark" alt="dung812" /></p>
   </div>
+<a href="https://app.daily.dev/ntdung0812"><img src="https://api.daily.dev/devcards/8447413cfc5440e99ea2ee4dbb99e367.png?r=mfl" width="400" alt="Nguyen Dung's Dev Card"/></a>

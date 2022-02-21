@@ -89,12 +89,6 @@
   </a>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dung812&show_icons=true&locale=en&layout=compact" alt="dung812" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dung812&show_icons=true&locale=en" alt="dung812" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dung812&" alt="dung812" /></p>
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=dung812&show_icons=true&theme=dark&locale=en" alt="dung812" /></td>

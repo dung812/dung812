@@ -35,9 +35,58 @@
 
 <h3 align="left">Databases :</h3>
 <div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLServer" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="5%"/>
-  <img alt="Oracle" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/AWS_Simple_Icons_Database_Amazon_RDS_Oracle_DB_Instance.svg/1200px-AWS_Simple_Icons_Database_Amazon_RDS_Oracle_DB_Instance.svg.png"  width="5%"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+      alt="mssql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      alt="oracle"
+      width="40"
+      height="40"
+    />
+  </a>
+</div>
+
+<h3 align="left">Tools:</h3>
+<div align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
 </div>
 
 

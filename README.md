@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Java, Javascript, SQL Server**
 
-- 📫 All of my projects are available at **[http://nguyenthanhdung.tk/](http://nguyenthanhdung.tk/)**
+- 📫 All of my projects are available at **[nguyenthanhdung.tk](http://nguyenthanhdung.tk/)**
 
 
 <h3 align="left">Connect with me:</h3>

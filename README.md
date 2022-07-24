@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <a href="http://www.nguyenthanhdung.tk" target="_blank"> Nguyen Dung </a></h1>
 
-- 🌱 I’m currently learning **Angular, ASP.NET MVC 5**
+- 🌱 I’m currently learning **Angular, ReactJS, ASP.NET MVC 5**
 
-- 💬 Ask me about **Java, Javascript, SQL Server**
+- 💬 Ask me about **Javascript, SQL Server**
 
 - 📫 All of my projects are available at **[nguyenthanhdung.tk](http://nguyenthanhdung.tk/)**
 

@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <a href="http://www.nguyenthanhdung.tk" target="_blank"> Nguyen Dung </a></h1>
 
-- 🌱 I’m currently learning **Angular, ReactJS, ASP.NET MVC 5**
+- 🌱 I’m currently learning **Angular, ReactJS**
 
-- 💬 Ask me about **Javascript, SQL Server**
+- 💬 Ask me about **Javascript, ASP.NET MVC, SQL Server**
 
 - 📫 All of my projects are available at **[nguyenthanhdung.tk](http://nguyenthanhdung.tk/)**
 
@@ -24,6 +24,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
   <img alt="ASP.NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>  
+  <img alt="React" src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 </div>
 
 <h3 align="left">Languages :</h3>

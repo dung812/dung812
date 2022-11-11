@@ -7,13 +7,13 @@
 - 📫 All of my projects are available at **[nguyenthanhdung.tk](http://nguyenthanhdung.tk/)**
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/nguyen-dung-89b75819a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ntdung8124@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<h3 align="left">Web Technologies :</h3>
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <div align="left">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -27,14 +27,14 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 </div>
 
-<h3 align="left">Languages :</h3>
+<h2 align="center">Languages</h2>
 <div align="left">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="C#" src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
-<h3 align="left">Databases :</h3>
+<h2 align="center">Databases</h2>
 <div align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img
@@ -55,7 +55,7 @@
  
 </div>
 
-<h3 align="left">Tools:</h3>
+<h3 align="center">Tools:</h3>
 <div align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img

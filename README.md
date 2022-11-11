@@ -55,7 +55,7 @@
  
 </div>
 
-<h3 align="center">Tools:</h3>
+<h2 align="center">Tools:</h2>
 <div align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img

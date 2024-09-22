@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <a href="http://www.nguyenthanhdung.tk" target="_blank"> Nguyen Dung </a></h1>
 
 - 🌱 I’m currently working **.Net Core, ReactJS, Angular**
-- 🌱 I know about **.Net Core, Java sprint boot, ReactJS, Angular**
+- 🌱 I know about **.Net Core, ReactJS, Angular**
 - 📫 All of my projects are available at **[nguyenthanhdung.tk](http://nguyenthanhdung.tk/)**
 
 
